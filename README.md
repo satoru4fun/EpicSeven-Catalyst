@@ -1,2 +1,3 @@
-# EpicSeven-Catalyst
-Helps otimize catalyst farming
+# Epic Seven Catalyst Database
+
+Helps optimize catalyst farming.
