@@ -1,11 +1,5 @@
 <script>
-    import Button from '../ui/Button.svelte';
-
-    const text = 'Search';
-
-    function handleClick() {
-		alert('...searching');
-	}
+	import Button from '../ui/Button.svelte';
 </script>
 
-<Button text={text} on:click={handleClick} />
+<Button text="Search" on:click/>
